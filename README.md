@@ -19,13 +19,13 @@ This repository is meant to keep an inventory of all the resources associated wi
   </tr>
   <tr>
     <td> Dataset </td>
-    <td> Coming soon </td>
-    <td> Coming soon </td>
+    <td> https://doi.org/10.26275/byqn-o8f6 </td>
+    <td> https://github.com/nih-sparc/sparc-marker-paper-dataset </td>
   </tr>
   <tr>
     <td> Code </td>
     <td> https://doi.org/10.5281/zenodo.11361363 </td>
-    <td> https://github.com/nih-sparc/sparc-marker-paper </td>
+    <td> https://github.com/nih-sparc/sparc-marker-paper-code </td>
   </tr>
 </tbody>
 </table>
