@@ -8,7 +8,7 @@ This repository is meant to keep an inventory of all the resources associated wi
   <tr>
     <th> Resource </th>
     <th> Main link/identifier </th>
-    <th> Alternative link(s) </th>
+    <th> Alternative link(s) if applicable </th>
   </tr>
 </thead>
 <tbody>
